@@ -1,0 +1,22 @@
+# 内存数据
+
+1. byte
+2. short
+3. int
+4. long
+5. float
+6. double
+7. boolean
+8. char
+9. class
+    1.  Byte
+    2.  Short
+    3.  Integer
+    4.  Long
+    5.  Float
+    6.  Double
+    7.  Boolean
+    8.  Character
+    9.  String
+    10. StringBuffer
+    11. ...
